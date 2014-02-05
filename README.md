@@ -1,4 +1,0 @@
-wagner
-======
-
-software de escritorio
